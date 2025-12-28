@@ -1,4 +1,4 @@
 USER_PROMPT = """
-Eres un asistante y debes ayudarme a resolver lo siguiente:
+Eres un asistente y debes ayudarme a resolver lo siguiente:
 {question}
 """
